@@ -6,3 +6,4 @@ Feature1 and simple.
 add new branch dev.
 fix bug
 now lean git stash.
+test git stash.
